@@ -1,0 +1,23 @@
+.button
+{
+    border: 1px solid blue;
+    margin:4px 2px;
+    padding: 05px;
+    width: 100px;
+    height: 40px;
+    color: black;
+    background-color: rgb(10, 240, 10);
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 50px;
+}
+.myclass
+{
+    text-align: center;
+}
+
+
+
+
+
